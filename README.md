@@ -9,7 +9,7 @@
 [![bundlejs](https://deno.bundlejs.com/?q=use-fun-hooks@6.1.3,use-fun-hooks@6.1.3&treeshake=[*],[{+default+}]&badge=)](https://bundlejs.com/?q=use-fun-hooks)
 [![npm](https://img.shields.io/npm/l/use-fun-hooks.svg?t=1495378566925)](https://www.npmjs.com/package/use-fun-hooks)
 
-Pipe-based useCallback react hook
+Functional useCallbacks
 
 ## Getting started
 
