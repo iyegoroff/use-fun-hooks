@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
+    "declaration": true,
     "sourceMap": true,
     "target": "es2018",
     "lib": ["ES2018", "DOM"],
     "strict": true,
     "jsx": "react",
     "moduleResolution": "node",
-    "removeComments": true,
     "esModuleInterop": true,
     "noEmitOnError": true,
     "noImplicitReturns": true,
