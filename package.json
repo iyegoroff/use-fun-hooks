@@ -1,6 +1,6 @@
 {
   "name": "use-fun-hooks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Functional useCallbacks",
   "sideEffects": false,
   "main": "./dist/cjs/index.js",
